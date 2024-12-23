@@ -17,7 +17,8 @@ A user-friendly and feature-rich **Invoice Generator** built with **React.js**, 
 
 ## Demo 📸
 
-![Preview of Invoice Generator](https://github.com/Mohamednowfil/Invoice-Generator/blob/main/Screenshot%202024-12-23%20233801.png)(https://github.com/Mohamednowfil/Invoice-Generator/blob/main/Screenshot%202024-12-23%20233819.png)
+![Preview of Invoice Generator](https://github.com/Mohamednowfil/Invoice-Generator/blob/main/Screenshot%202024-12-23%20233801.png)
+![Preview of Invoice Generator](https://github.com/Mohamednowfil/Invoice-Generator/blob/main/Screenshot%202024-12-23%20233819.png)
 
 ## Tech Stack 🛠️
 
